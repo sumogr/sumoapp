@@ -1,0 +1,191 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "epee-Debug-x86_64": {
+      "artifactName": "epee",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libepee.a"
+    },
+    "common-Debug-x86_64": {
+      "artifactName": "common",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libcommon.a"
+    },
+    "boost_regex-Debug-x86_64": {
+      "artifactName": "boost_regex",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_regex.a"
+    },
+    "ringct_basic-Debug-x86_64": {
+      "artifactName": "ringct_basic",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libringct_basic.a"
+    },
+    "rpc_base-Debug-x86_64": {
+      "artifactName": "rpc_base",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\librpc_base.a"
+    },
+    "boost_wserialization-Debug-x86_64": {
+      "artifactName": "boost_wserialization",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_wserialization.a"
+    },
+    "boost_serialization-Debug-x86_64": {
+      "artifactName": "boost_serialization",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_serialization.a"
+    },
+    "wallet-Debug-x86_64": {
+      "artifactName": "wallet",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libwallet.a"
+    },
+    "hardforks-Debug-x86_64": {
+      "artifactName": "hardforks",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libhardforks.a"
+    },
+    "unbound-Debug-x86_64": {
+      "artifactName": "unbound",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libunbound.a"
+    },
+    "cryptonote_core-Debug-x86_64": {
+      "artifactName": "cryptonote_core",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libcryptonote_core.a"
+    },
+    "sodium-Debug-x86_64": {
+      "artifactName": "sodium",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\libsodium\\lib\\x86_64\\libsodium.a"
+    },
+    "cncrypto-Debug-x86_64": {
+      "artifactName": "cncrypto",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libcncrypto.a"
+    },
+    "boost_system-Debug-x86_64": {
+      "artifactName": "boost_system",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_system.a"
+    },
+    "easylogging-Debug-x86_64": {
+      "artifactName": "easylogging",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libeasylogging.a"
+    },
+    "blocks-Debug-x86_64": {
+      "artifactName": "blocks",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libblocks.a"
+    },
+    "boost_thread-Debug-x86_64": {
+      "artifactName": "boost_thread",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_thread.a"
+    },
+    "boost_date_time-Debug-x86_64": {
+      "artifactName": "boost_date_time",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_date_time.a"
+    },
+    "version-Debug-x86_64": {
+      "artifactName": "version",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libversion.a"
+    },
+    "mnemonics-Debug-x86_64": {
+      "artifactName": "mnemonics",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libmnemonics.a"
+    },
+    "crypto-Debug-x86_64": {
+      "artifactName": "crypto",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\openssl\\lib\\x86_64\\libcrypto.a"
+    },
+    "wallet_api-Debug-x86_64": {
+      "artifactName": "wallet_api",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libwallet_api.a"
+    },
+    "ssl-Debug-x86_64": {
+      "artifactName": "ssl",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\openssl\\lib\\x86_64\\libssl.a"
+    },
+    "multisig-Debug-x86_64": {
+      "artifactName": "multisig",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libmultisig.a"
+    },
+    "net-Debug-x86_64": {
+      "artifactName": "net",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libnet.a"
+    },
+    "device-Debug-x86_64": {
+      "artifactName": "device",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libdevice.a"
+    },
+    "monerujo-Debug-x86_64": {
+      "artifactName": "monerujo",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64 --target monerujo",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\build\\intermediates\\cmake\\alphaMainnetDebug\\obj\\x86_64\\libmonerujo.so"
+    },
+    "blockchain_db-Debug-x86_64": {
+      "artifactName": "blockchain_db",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libblockchain_db.a"
+    },
+    "lmdb-Debug-x86_64": {
+      "artifactName": "lmdb",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\liblmdb.a"
+    },
+    "boost_filesystem-Debug-x86_64": {
+      "artifactName": "boost_filesystem",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_filesystem.a"
+    },
+    "ringct-Debug-x86_64": {
+      "artifactName": "ringct",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libringct.a"
+    },
+    "cryptonote_basic-Debug-x86_64": {
+      "artifactName": "cryptonote_basic",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libcryptonote_basic.a"
+    },
+    "device_trezor-Debug-x86_64": {
+      "artifactName": "device_trezor",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libdevice_trezor.a"
+    },
+    "boost_chrono-Debug-x86_64": {
+      "artifactName": "boost_chrono",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_chrono.a"
+    },
+    "boost_program_options-Debug-x86_64": {
+      "artifactName": "boost_program_options",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\boost\\lib\\x86_64\\libboost_program_options.a"
+    },
+    "checkpoints-Debug-x86_64": {
+      "artifactName": "checkpoints",
+      "abi": "x86_64",
+      "output": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\..\\external-libs\\monero\\lib\\x86_64\\libcheckpoints.a"
+    }
+  }
+}

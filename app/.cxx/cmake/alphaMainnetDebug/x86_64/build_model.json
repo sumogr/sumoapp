@@ -1,0 +1,79 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet",
+      "sdkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [
+        "armeabi-v7a",
+        "x86_64",
+        "x86",
+        "arm64-v8a"
+      ],
+      "intermediatesFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app",
+      "makeFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\.cxx",
+      "cxxFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_STL\u003dc++_shared"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "alphaMainnetDebug",
+    "soFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\build\\intermediates\\cmake\\alphaMainnetDebug\\lib",
+    "objFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\build\\intermediates\\cmake\\alphaMainnetDebug\\obj",
+    "jsonFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug",
+    "gradleBuildOutputFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64",
+  "jsonFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64",
+  "objFolder": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\build\\intermediates\\cmake\\alphaMainnetDebug\\obj\\x86_64",
+  "buildCommandFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64\\build_command.txt",
+  "buildOutputFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64\\build_output.txt",
+  "modelOutputFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cxx\\alphaMainnetDebug\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86_64\\compile_commands.json"
+}

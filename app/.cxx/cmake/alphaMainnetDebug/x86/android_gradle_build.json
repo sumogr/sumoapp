@@ -1,0 +1,318 @@
+
+{
+	"buildFiles" : [ "C:/Users/Administrator/Desktop/xmrwallet/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"blockchain_db-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "blockchain_db",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libblockchain_db.a",
+			"toolchain" : "2105312353"
+		},
+		"blocks-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "blocks",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libblocks.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_chrono-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_chrono",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_chrono.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_date_time-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_date_time",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_date_time.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_filesystem-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_filesystem",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_filesystem.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_program_options-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_program_options",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_program_options.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_regex-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_regex",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_regex.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_serialization-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_serialization",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_serialization.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_system-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_system",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_system.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_thread-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_thread",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_thread.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_wserialization-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "boost_wserialization",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/x86/libboost_wserialization.a",
+			"toolchain" : "2105312353"
+		},
+		"checkpoints-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "checkpoints",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libcheckpoints.a",
+			"toolchain" : "2105312353"
+		},
+		"cncrypto-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "cncrypto",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libcncrypto.a",
+			"toolchain" : "2105312353"
+		},
+		"common-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "common",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libcommon.a",
+			"toolchain" : "2105312353"
+		},
+		"crypto-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "crypto",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/openssl/lib/x86/libcrypto.a",
+			"toolchain" : "2105312353"
+		},
+		"cryptonote_basic-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "cryptonote_basic",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libcryptonote_basic.a",
+			"toolchain" : "2105312353"
+		},
+		"cryptonote_core-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "cryptonote_core",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libcryptonote_core.a",
+			"toolchain" : "2105312353"
+		},
+		"device-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "device",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libdevice.a",
+			"toolchain" : "2105312353"
+		},
+		"device_trezor-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "device_trezor",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libdevice_trezor.a",
+			"toolchain" : "2105312353"
+		},
+		"easylogging-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "easylogging",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libeasylogging.a",
+			"toolchain" : "2105312353"
+		},
+		"epee-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "epee",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libepee.a",
+			"toolchain" : "2105312353"
+		},
+		"hardforks-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "hardforks",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libhardforks.a",
+			"toolchain" : "2105312353"
+		},
+		"lmdb-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "lmdb",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/liblmdb.a",
+			"toolchain" : "2105312353"
+		},
+		"mnemonics-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "mnemonics",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libmnemonics.a",
+			"toolchain" : "2105312353"
+		},
+		"monerujo-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "monerujo",
+			"buildCommand" : "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\x86 --target monerujo",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android21 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmonerujo_EXPORTS -I..\\..\\..\\..\\..\\external-libs\\monero\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/Administrator/Desktop/xmrwallet/app/src/main/cpp/monerujo.cpp",
+					"workingDirectory" : "C:/Users/Administrator/Desktop/xmrwallet/app/.cxx/cmake/alphaMainnetDebug/x86"
+				}
+			],
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/build/intermediates/cmake/alphaMainnetDebug/obj/x86/libmonerujo.so",
+			"toolchain" : "2105312353"
+		},
+		"multisig-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "multisig",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libmultisig.a",
+			"toolchain" : "2105312353"
+		},
+		"net-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "net",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libnet.a",
+			"toolchain" : "2105312353"
+		},
+		"ringct-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "ringct",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libringct.a",
+			"toolchain" : "2105312353"
+		},
+		"ringct_basic-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "ringct_basic",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libringct_basic.a",
+			"toolchain" : "2105312353"
+		},
+		"rpc_base-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "rpc_base",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/librpc_base.a",
+			"toolchain" : "2105312353"
+		},
+		"sodium-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "sodium",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/libsodium/lib/x86/libsodium.a",
+			"toolchain" : "2105312353"
+		},
+		"ssl-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "ssl",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/openssl/lib/x86/libssl.a",
+			"toolchain" : "2105312353"
+		},
+		"unbound-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "unbound",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libunbound.a",
+			"toolchain" : "2105312353"
+		},
+		"version-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "version",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libversion.a",
+			"toolchain" : "2105312353"
+		},
+		"wallet-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "wallet",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libwallet.a",
+			"toolchain" : "2105312353"
+		},
+		"wallet_api-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "wallet_api",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/x86/libwallet_api.a",
+			"toolchain" : "2105312353"
+		}
+	},
+	"toolchains" : 
+	{
+		"2105312353" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

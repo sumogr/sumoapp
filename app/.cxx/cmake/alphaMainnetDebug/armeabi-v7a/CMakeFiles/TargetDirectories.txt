@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/xmrwallet/app/.cxx/cmake/alphaMainnetDebug/armeabi-v7a/CMakeFiles/monerujo.dir
+C:/Users/Administrator/Desktop/xmrwallet/app/.cxx/cmake/alphaMainnetDebug/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/xmrwallet/app/.cxx/cmake/alphaMainnetDebug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

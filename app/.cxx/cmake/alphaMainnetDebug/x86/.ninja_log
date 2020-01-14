@@ -1,0 +1,9 @@
+# ninja log v5
+0	170	0	build.ninja	4ae976bf6a3fe998
+1	1149	0	CMakeFiles/monerujo.dir/src/main/cpp/monerujo.cpp.o	284968a85710b14c
+1151	2009	0	../../../../build/intermediates/cmake/alphaMainnetDebug/obj/x86/libmonerujo.so	3ef74205144bafe6
+0	188	0	build.ninja	4ae976bf6a3fe998
+2	965	0	CMakeFiles/monerujo.dir/src/main/cpp/monerujo.cpp.o	284968a85710b14c
+965	1705	0	../../../../build/intermediates/cmake/alphaMainnetDebug/obj/x86/libmonerujo.so	3ef74205144bafe6
+2	847	0	../../../../build/intermediates/cmake/alphaMainnetDebug/obj/x86/libmonerujo.so	3ef74205144bafe6
+2	943	0	../../../../build/intermediates/cmake/alphaMainnetDebug/obj/x86/libmonerujo.so	3ef74205144bafe6

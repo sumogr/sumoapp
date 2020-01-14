@@ -1,0 +1,318 @@
+
+{
+	"buildFiles" : [ "C:/Users/Administrator/Desktop/xmrwallet/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"blockchain_db-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "blockchain_db",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libblockchain_db.a",
+			"toolchain" : "2105312353"
+		},
+		"blocks-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "blocks",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libblocks.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_chrono-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_chrono",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_chrono.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_date_time-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_date_time",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_date_time.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_filesystem-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_filesystem",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_filesystem.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_program_options-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_program_options",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_program_options.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_regex-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_regex",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_regex.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_serialization-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_serialization",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_serialization.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_system-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_system",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_system.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_thread-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_thread",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_thread.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_wserialization-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "boost_wserialization",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/armeabi-v7a/libboost_wserialization.a",
+			"toolchain" : "2105312353"
+		},
+		"checkpoints-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "checkpoints",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libcheckpoints.a",
+			"toolchain" : "2105312353"
+		},
+		"cncrypto-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cncrypto",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libcncrypto.a",
+			"toolchain" : "2105312353"
+		},
+		"common-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "common",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libcommon.a",
+			"toolchain" : "2105312353"
+		},
+		"crypto-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "crypto",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/openssl/lib/armeabi-v7a/libcrypto.a",
+			"toolchain" : "2105312353"
+		},
+		"cryptonote_basic-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cryptonote_basic",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libcryptonote_basic.a",
+			"toolchain" : "2105312353"
+		},
+		"cryptonote_core-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "cryptonote_core",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libcryptonote_core.a",
+			"toolchain" : "2105312353"
+		},
+		"device-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "device",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libdevice.a",
+			"toolchain" : "2105312353"
+		},
+		"device_trezor-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "device_trezor",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libdevice_trezor.a",
+			"toolchain" : "2105312353"
+		},
+		"easylogging-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "easylogging",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libeasylogging.a",
+			"toolchain" : "2105312353"
+		},
+		"epee-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "epee",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libepee.a",
+			"toolchain" : "2105312353"
+		},
+		"hardforks-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "hardforks",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libhardforks.a",
+			"toolchain" : "2105312353"
+		},
+		"lmdb-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "lmdb",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/liblmdb.a",
+			"toolchain" : "2105312353"
+		},
+		"mnemonics-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "mnemonics",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libmnemonics.a",
+			"toolchain" : "2105312353"
+		},
+		"monerujo-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "monerujo",
+			"buildCommand" : "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\armeabi-v7a --target monerujo",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmonerujo_EXPORTS -I..\\..\\..\\..\\..\\external-libs\\monero\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/Administrator/Desktop/xmrwallet/app/src/main/cpp/monerujo.cpp",
+					"workingDirectory" : "C:/Users/Administrator/Desktop/xmrwallet/app/.cxx/cmake/alphaMainnetDebug/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/build/intermediates/cmake/alphaMainnetDebug/obj/armeabi-v7a/libmonerujo.so",
+			"toolchain" : "2105312353"
+		},
+		"multisig-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "multisig",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libmultisig.a",
+			"toolchain" : "2105312353"
+		},
+		"net-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "net",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libnet.a",
+			"toolchain" : "2105312353"
+		},
+		"ringct-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "ringct",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libringct.a",
+			"toolchain" : "2105312353"
+		},
+		"ringct_basic-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "ringct_basic",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libringct_basic.a",
+			"toolchain" : "2105312353"
+		},
+		"rpc_base-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "rpc_base",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/librpc_base.a",
+			"toolchain" : "2105312353"
+		},
+		"sodium-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "sodium",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/libsodium/lib/armeabi-v7a/libsodium.a",
+			"toolchain" : "2105312353"
+		},
+		"ssl-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "ssl",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/openssl/lib/armeabi-v7a/libssl.a",
+			"toolchain" : "2105312353"
+		},
+		"unbound-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "unbound",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libunbound.a",
+			"toolchain" : "2105312353"
+		},
+		"version-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "version",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libversion.a",
+			"toolchain" : "2105312353"
+		},
+		"wallet-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "wallet",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libwallet.a",
+			"toolchain" : "2105312353"
+		},
+		"wallet_api-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "wallet_api",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/armeabi-v7a/libwallet_api.a",
+			"toolchain" : "2105312353"
+		}
+	},
+	"toolchains" : 
+	{
+		"2105312353" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

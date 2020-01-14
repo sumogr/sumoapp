@@ -1,0 +1,5 @@
+-- ABI_INFO=x86
+-- EXTERNAL_LIBS_DIR:C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Administrator/Desktop/xmrwallet/app/.cxx/cmake/alphaMainnetDebug/x86

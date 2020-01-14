@@ -1,0 +1,318 @@
+
+{
+	"buildFiles" : [ "C:/Users/Administrator/Desktop/xmrwallet/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"blockchain_db-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "blockchain_db",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libblockchain_db.a",
+			"toolchain" : "2105312353"
+		},
+		"blocks-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "blocks",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libblocks.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_chrono-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_chrono",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_chrono.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_date_time-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_date_time",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_date_time.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_filesystem-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_filesystem",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_filesystem.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_program_options-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_program_options",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_program_options.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_regex-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_regex",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_regex.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_serialization-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_serialization",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_serialization.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_system-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_system",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_system.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_thread-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_thread",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_thread.a",
+			"toolchain" : "2105312353"
+		},
+		"boost_wserialization-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "boost_wserialization",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/boost/lib/arm64-v8a/libboost_wserialization.a",
+			"toolchain" : "2105312353"
+		},
+		"checkpoints-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "checkpoints",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libcheckpoints.a",
+			"toolchain" : "2105312353"
+		},
+		"cncrypto-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "cncrypto",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libcncrypto.a",
+			"toolchain" : "2105312353"
+		},
+		"common-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "common",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libcommon.a",
+			"toolchain" : "2105312353"
+		},
+		"crypto-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "crypto",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/openssl/lib/arm64-v8a/libcrypto.a",
+			"toolchain" : "2105312353"
+		},
+		"cryptonote_basic-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "cryptonote_basic",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libcryptonote_basic.a",
+			"toolchain" : "2105312353"
+		},
+		"cryptonote_core-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "cryptonote_core",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libcryptonote_core.a",
+			"toolchain" : "2105312353"
+		},
+		"device-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "device",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libdevice.a",
+			"toolchain" : "2105312353"
+		},
+		"device_trezor-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "device_trezor",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libdevice_trezor.a",
+			"toolchain" : "2105312353"
+		},
+		"easylogging-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "easylogging",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libeasylogging.a",
+			"toolchain" : "2105312353"
+		},
+		"epee-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "epee",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libepee.a",
+			"toolchain" : "2105312353"
+		},
+		"hardforks-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "hardforks",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libhardforks.a",
+			"toolchain" : "2105312353"
+		},
+		"lmdb-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "lmdb",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/liblmdb.a",
+			"toolchain" : "2105312353"
+		},
+		"mnemonics-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "mnemonics",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libmnemonics.a",
+			"toolchain" : "2105312353"
+		},
+		"monerujo-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "monerujo",
+			"buildCommand" : "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\Administrator\\Desktop\\xmrwallet\\app\\.cxx\\cmake\\alphaMainnetDebug\\arm64-v8a --target monerujo",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmonerujo_EXPORTS -I..\\..\\..\\..\\..\\external-libs\\monero\\include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info -fno-experimental-isel  -fPIC    -c ",
+					"src" : "C:/Users/Administrator/Desktop/xmrwallet/app/src/main/cpp/monerujo.cpp",
+					"workingDirectory" : "C:/Users/Administrator/Desktop/xmrwallet/app/.cxx/cmake/alphaMainnetDebug/arm64-v8a"
+				}
+			],
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/build/intermediates/cmake/alphaMainnetDebug/obj/arm64-v8a/libmonerujo.so",
+			"toolchain" : "2105312353"
+		},
+		"multisig-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "multisig",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libmultisig.a",
+			"toolchain" : "2105312353"
+		},
+		"net-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "net",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libnet.a",
+			"toolchain" : "2105312353"
+		},
+		"ringct-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ringct",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libringct.a",
+			"toolchain" : "2105312353"
+		},
+		"ringct_basic-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ringct_basic",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libringct_basic.a",
+			"toolchain" : "2105312353"
+		},
+		"rpc_base-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "rpc_base",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/librpc_base.a",
+			"toolchain" : "2105312353"
+		},
+		"sodium-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "sodium",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/libsodium/lib/arm64-v8a/libsodium.a",
+			"toolchain" : "2105312353"
+		},
+		"ssl-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ssl",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/openssl/lib/arm64-v8a/libssl.a",
+			"toolchain" : "2105312353"
+		},
+		"unbound-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "unbound",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libunbound.a",
+			"toolchain" : "2105312353"
+		},
+		"version-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "version",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libversion.a",
+			"toolchain" : "2105312353"
+		},
+		"wallet-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "wallet",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libwallet.a",
+			"toolchain" : "2105312353"
+		},
+		"wallet_api-Debug-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "wallet_api",
+			"buildType" : "debug",
+			"output" : "C:/Users/Administrator/Desktop/xmrwallet/app/../external-libs/monero/lib/arm64-v8a/libwallet_api.a",
+			"toolchain" : "2105312353"
+		}
+	},
+	"toolchains" : 
+	{
+		"2105312353" : 
+		{
+			"cCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/20.1.5948944/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
