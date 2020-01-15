@@ -81,7 +81,7 @@
                 android:background="?android:attr/selectableItemBackgroundBorderless"
                 android:gravity="center"
                 android:padding="12dp"
-                android:src="@drawable/ic_search_orange_24dp" />
+                android:src="@drawable/ic_settings_orange_24dp" />
         </RelativeLayout>
 
         <EditText
